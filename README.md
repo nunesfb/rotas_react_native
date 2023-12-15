@@ -3,8 +3,12 @@
 </p>
 
 <h1 align="center">
-  Criando um aplicativo mobile para listar jogos com React Native, Expo e TypeScript 
+  Criando rotas de navegação com React Native, Expo e React Navigation usando navegação em Stack
 </h1>
+
+<p align="justify">
+  A React Navigation é uma biblioteca popular para navegação em aplicativos React Native. Ela oferece uma solução flexível e fácil de usar para gerenciar a navegação entre diferentes telas em um aplicativo React Native. A biblioteca foi projetada para ser extensível e personalizável, permitindo que os desenvolvedores criem fluxos de navegação complexos de maneira eficiente. 
+</p>
 
 <p align="justify">
   O React Native é uma biblioteca JavaScript para criar aplicativos móveis nativos para iOS e Android. Ele usa a biblioteca React para criar a interface do usuário e o JavaScript para a lógica do aplicativo. 
@@ -15,7 +19,7 @@ Já o Expo é um conjunto de ferramentas e serviços que facilitam o desenvolvim
   </p>
   
 <p align="justify">
-Neste vídeo usamos o React Native com Expo e a linguagem Typescript para realizar a criação de um aplicativo mobile que lista diferentes jogos. É um projeto muito legal para reforçar seus conhecimentos nesta área.
+Neste vídeo usamos o React Native com Expo, React Navigation e a linguagem JavaScript para realizar a criação de um aplicativo mobile que tem diferentes telas com navegação do tipo stack. É um projeto muito legal para aprender como criar telas e navegar entre elas.
 </p>
 
 <p align="justify">Estes códigos pertencem à playlist do canal do YouTube TecEdu4All. </p> 
@@ -30,7 +34,7 @@ Neste vídeo usamos o React Native com Expo e a linguagem Typescript para realiz
 
 ## 💻 Playlist/Vídeo
 
-- [Criando um aplicativo mobile para listar jogos com React Native, Expo e TypeScript ](https://youtu.be/pQ60Ry87B84)
+- [Criando rotas de navegação com React Native, Expo e React Navigation usando navegação em Stack](https://www.youtube.com/watch?v=bc_eSMQfFRE)
 
 ## ✋🏻 Pré-requisitos
 
@@ -40,7 +44,7 @@ Neste vídeo usamos o React Native com Expo e a linguagem Typescript para realiz
 
 1. Faça um clone desse repositório;
 2. Rode o comando `npm i`
-4. Rode o comando `npm run dev`
+4. Rode o comando `npm start`
 
 ## 📝 Licença
 
